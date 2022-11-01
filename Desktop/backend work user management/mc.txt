@@ -1,0 +1,23 @@
+tdm-->freq same ,time different ,guard spaces
+fdm->frequency different ,guarr  spaces
+cdm -->code different, guard spaceees
+
+SAMa = cdma+tdma
+gsm-->tdm+fdm
+
+redeclaration not alllowed in wml
+wml pages are made of decks which have cards
+
+wmlscript>>.wmls
+wml--> .wml
+dsss--> integrator chipping seqquence + XOR,cdma
+code division multiple access
+fhss-->fdm + tdm
+hiddden terminal may cause collisions
+square of distance
+dama --> reservation aloha'
+
+
+pmanrocks2912P
+
+dfs-> stacks
